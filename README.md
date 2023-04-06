@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppedr0liveira&layout=compact)](https://github.com/ppedr0liveira/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ppedr0liveira&bg_color=3a3636&color=6bea62&line=3bf52e&point=2eff74&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Tecnologias do meu dia a dia
