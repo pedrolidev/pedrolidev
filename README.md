@@ -1,7 +1,4 @@
 
-<img width=100%  src="https://capsule.render.vercel.app/api?type=waving&color=00ff7f&height=120&section=header">
-
-
 ### Olá! Eu sou Pedro Oliveira 👋
 
 ## Contatos
