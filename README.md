@@ -1,9 +1,5 @@
 ### Olá! Eu sou Pedro Oliveira 👋
 
-    - Jovem estudante de 18 anos, que pretende seguir carreira em programação na área de front-end e que estuda para ser melhor a cada dia;
-
-    - Sou fluente em inglês e procuro oportunidades na área de TI;
-
 ## Contatos
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ppedro_oliveiraa/)
