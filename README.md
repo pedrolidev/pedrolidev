@@ -1,5 +1,14 @@
 
-### Olá! Eu sou Pedro Oliveira 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fa9a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+am+a+technology+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+## Sobre mim
+
+- Jovem estudante de 18 anos, que pretende seguir carreira em programação na área de front-end e que estuda para ser melhor a cada dia;
+
+- Sou fluente em inglês e procuro oportunidades na área de TI;
+
 
 ## Contatos
 
