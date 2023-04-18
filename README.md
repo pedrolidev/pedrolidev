@@ -4,15 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fa9a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+am+a+technology+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-    - Jovem estudante de 18 anos, que pretende seguir carreira em programação na área de front-end e que estuda para ser melhor a cada dia;
-
-    - Sou fluente em inglês e procuro oportunidades na área de TI;
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ppedr0liveira&show_icons=true&count_private=true&hide_border=true&title_color=3cb371&icon_color=3cb371&text_color=ffffff&bg_color=0d1117" alt="Pedro Oliveira github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedr0liveira&layout=compact&hide_border=true&title_color=3cb371&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ppedr0liveira&bg_color=000000&color=72ee91&line=7de892&point=08fd39&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
