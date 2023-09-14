@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00fa9a&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fa9a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+am+a+technology+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00fa9a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Oliveira;I'm+19+years+old;I'm+from+Brazil;I+am+a+technology+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ppedr0liveira&show_icons=true&count_private=true&hide_border=true&title_color=00fa9a&icon_color=00fa9a&text_color=00fa9a&bg_color=131313" alt="Pedro Oliveira github stats" /> 
